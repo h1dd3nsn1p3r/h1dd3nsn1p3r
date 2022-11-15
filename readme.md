@@ -27,11 +27,3 @@
 
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
 ![Sublime](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)&nbsp;
-
-### Github
-
-<p align="left">
-  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=h1dd3nsn1p3r&title_color=00BFFF&icon_color=fff&text_color=5ce1e6&bg_color=1f004e&border_color=whitec&show_icons=true"/>
-  <img height="145em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=h1dd3nsn1p3r&layout=compact&title_color=00BFFF&icon_color=fff4&text_color=5ce1e6&bg_color=1f004e&show_icons=true"/>
-</p>
-
