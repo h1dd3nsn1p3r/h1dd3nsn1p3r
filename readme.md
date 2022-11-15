@@ -27,3 +27,9 @@
 
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
 ![Sublime](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)&nbsp;
+
+#### 👨‍💻 Github
+
+![h1dd3nsn1p3r's Streak](https://github-readme-streak-stats.herokuapp.com/?user=h1dd3nsn1p3r&theme=tokyonight&hide_border=true)
+![h1dd3nsn1p3r's Stats](https://github-readme-stats.vercel.app/api?username=h1dd3nsn1p3r&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![h1dd3nsn1p3r's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=h1dd3nsn1p3r&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
