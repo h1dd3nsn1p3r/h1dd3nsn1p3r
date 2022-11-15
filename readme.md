@@ -1,10 +1,10 @@
 ## Hello,
 
-🔭 I'm currently working on Front-end projects.
-🌱 I’m currently learning Vue, Nuxt & React JS.
-🐍 Next milestone - Python programming.
-📚 Currently studying BSc. IT 
-😄 Even during winter I love to have beers 🍺
+- 🔭 I'm currently working on Front-end projects.
+- 🌱 I’m currently learning Vue, Nuxt & React JS.
+- 🐍 Next milestone - Python programming.
+- 📚 Currently studying BSc. IT 
+- 😄 Even during winter I love beers 🍺
 
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
