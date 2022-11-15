@@ -18,5 +18,4 @@
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)&nbsp;
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 
-![h1dd3nsn1p3r's Streak](https://github-readme-streak-stats.herokuapp.com/?user=h1dd3nsn1p3r&theme=tokyonight&hide_border=true)
-![h1dd3nsn1p3r's Stats](https://github-readme-stats.vercel.app/api?username=h1dd3nsn1p3r&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![h1dd3nsn1p3r's Streak](https://github-readme-streak-stats.herokuapp.com/?user=h1dd3nsn1p3r&theme=prussian&hide_border=true)
