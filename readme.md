@@ -1,7 +1,7 @@
 ## Hello,
 
 - 🔭 I'm currently working on Front-end projects.
-- 🌱 I’m currently learning TypeScript & SvelteKit.
+- 🌱 I’m currently learning TypeScript & react.
 - 🐍 Next milestone - Node JS!
 - 📚 Currently studying BSc. IT 
 - 😄 Even during winter I love beers 🍺
