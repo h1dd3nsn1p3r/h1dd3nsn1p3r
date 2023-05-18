@@ -1,7 +1,7 @@
 ## Hello,
 
 - 🔭 I'm currently working on Front-end projects.
-- 🌱 I’m currently learning TypeScript & react.
+- 🌱 I’m currently learning TypeScript & React.
 - 🐍 Next milestone - Node JS backend!
 - 📚 Currently studying BSc. IT 
 - 😄 Even during winter I love beers 🍺
