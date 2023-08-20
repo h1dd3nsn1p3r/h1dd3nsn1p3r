@@ -1,8 +1,8 @@
 ## Hello,
 
-- 🔭 I'm currently working on Front-end projects.
-- 🌱 I’m currently learning TypeScript & React.
-- 🐍 Next milestone - Node JS backend!
+- 🔭 I'm currently working on Vue + Node JS + Express + MySQL/MongoDB
+- 🌱 I’m currently learning Node JS + typescript.
+- 🐍 Next milestone - Python + Rust.
 - 📚 Currently studying BSc. IT 
 - 😄 Even during winter I love beers 🍺
 
