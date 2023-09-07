@@ -2,7 +2,7 @@
 
 - 🔭 I'm currently working on Vue + Node JS + Express + MySQL/MongoDB
 - 🌱 I’m currently learning Node JS + typescript.
-- 🐍 Next milestone - Python + Rust.
+- 🐍 Next milestone - Python.
 - 📚 Currently studying BSc. IT 
 - 😄 Even during winter I love beers 🍺
 
