@@ -1,7 +1,7 @@
 ## Hello,
 
 - 🔭 Currently working on - SvelteKit, Vue 3 + Nuxt 3, TypeScript, Node JS, Express, MongoDB/MySQL
-- 🌱 Learning & Imrpoving - TypeScript, Node JS, Redis & Micros-ervices.
+- 🌱 Learning & Imrpoving - TypeScript, Node JS, Redis & Microservices.
 - 🐍 Next milestone - Python.
 - 📚 Currently studying BSc. IT 
 - 😄 Even during winter I love beers 🍺
