@@ -1,7 +1,7 @@
 ## Hello,
 
-- 🔭 I'm currently working on - Vue 3/Nuxt 3 (Pinia & Composition API) + SvelteKit + Node JS + Express + MongoDB/MySQL
-- 🌱 I’m currently learning - Node JS + TypeScript.
+- 🔭 Currently working on - SvelteKit, Vue 3 + Nuxt 3, TypeScript, Node JS, Express, MongoDB/MySQL
+- 🌱 Learning & Imrpoving - TypeScript, Node JS, Redis & Micros-ervices.
 - 🐍 Next milestone - Python.
 - 📚 Currently studying BSc. IT 
 - 😄 Even during winter I love beers 🍺
