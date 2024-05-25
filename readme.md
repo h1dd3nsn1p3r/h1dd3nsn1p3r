@@ -1,8 +1,8 @@
 ## Hello,
 
-- 🔭 Currently working on - SvelteKit, Vue 3 + Nuxt 3, TypeScript, Node JS, Express, Web Sockets + MongoDB/MySQL/SQLite 
-- 🌱 Learning & Improving - Go lang, TypeScript, Node JS, Redis & Microservices.
-- 🐍 Next milestone - Python.
+- 🔭 Currently working on - SvelteKit, Tailwind, NextJS, Vue 3, TypeScript, Node JS, Express/Hono JS, Web Sockets, MongoDB, Redis & WP. 
+- 🌱 Learning - Golang, Microservices, System Design & Others...
+- 🐍 Next milestone - Microservices, Distributed System, tRPC/gRPC, Kafka, Message brokers.
 - 📚 Currently studying- BSc. IT 
 - 😄 Even during winter I love beers 🍺
 
