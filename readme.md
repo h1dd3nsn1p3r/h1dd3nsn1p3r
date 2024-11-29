@@ -26,6 +26,7 @@
 ![VITE](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)&nbsp;
 ![WORDPRESS](https://img.shields.io/badge/WordPress-0073aa?style=for-the-badge&logo=wordpress)&nbsp;
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![GITHUB](https://img.shields.io/badge/GITHUB-1f2328?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![VSCODE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=freecodecamp&logoColor=white)&nbsp;
 ![UBUNTU](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
 
