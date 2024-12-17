@@ -20,7 +20,7 @@
 ![MONGODB](https://img.shields.io/badge/MongoDB-43853D?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 ![DRIZZLE](https://img.shields.io/badge/DRIZZLE_ORM-924900?style=for-the-badge&logo=drizzle&logoColor=white)&nbsp;
 ![REDIS](https://img.shields.io/badge/REDIS-d53729?style=for-the-badge&logo=redis&logoColor=white)&nbsp;
-![KAFKA](thttps://img.shields.io/badge/KAFKA-000000?style=for-the-badge&logo=apache-kafka&logoColor=white)&nbsp;
+![KAFKA](https://img.shields.io/badge/KAFKA-000000?style=for-the-badge&logo=apache-kafka&logoColor=white)&nbsp;
 ![VUE](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)&nbsp;
 ![REACT](https://img.shields.io/badge/REACT-3998b6?style=for-the-badge&logo=react&logoColor=white)&nbsp;
 ![NEXTJS](https://img.shields.io/badge/NEXT_JS-000000?style=for-the-badge&logo=next.js&logoColor=white)&nbsp;
