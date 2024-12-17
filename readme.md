@@ -12,6 +12,7 @@
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
 ![TYPESCRIPT](https://img.shields.io/badge/TYPESCRIPT-037acc?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![NODEJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
+![DOCKER](https://img.shields.io/badge/DOCKER-1d63ed?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
 ![EXPRESS](https://img.shields.io/badge/Express.js-8000e4?style=for-the-badge&logo=express)&nbsp;
 ![HONO](https://img.shields.io/badge/HONO-e36002?style=for-the-badge&logo=hono&logoColor=white)&nbsp;
 ![POSTGRESQL](https://img.shields.io/badge/POSTGRESQL-2f5e8d?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
@@ -19,7 +20,7 @@
 ![MONGODB](https://img.shields.io/badge/MongoDB-43853D?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 ![DRIZZLE](https://img.shields.io/badge/DRIZZLE_ORM-924900?style=for-the-badge&logo=drizzle&logoColor=white)&nbsp;
 ![REDIS](https://img.shields.io/badge/REDIS-d53729?style=for-the-badge&logo=redis&logoColor=white)&nbsp;
-![KAFKA](https://img.shields.io/badge/KAFKA-000000?style=for-the-badge&logo=apache-kafka&logoColor=white)&nbsp;
+![KAFKA](thttps://img.shields.io/badge/KAFKA-000000?style=for-the-badge&logo=apache-kafka&logoColor=white)&nbsp;
 ![VUE](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)&nbsp;
 ![REACT](https://img.shields.io/badge/REACT-3998b6?style=for-the-badge&logo=react&logoColor=white)&nbsp;
 ![NEXTJS](https://img.shields.io/badge/NEXT_JS-000000?style=for-the-badge&logo=next.js&logoColor=white)&nbsp;
