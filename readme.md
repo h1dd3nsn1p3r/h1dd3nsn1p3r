@@ -1,10 +1,10 @@
 ## Hello,
 
-- 🔭 Currently working on - SvelteKit, Tailwind, NextJS, Vue 3, TypeScript, Node JS, Express/Hono JS, Web Sockets, MongoDB, Redis & WP. 
-- 🌱 Learning - Golang, Microservices, System Design & Others...
-- 🐍 Next milestone - Microservices, Distributed System, tRPC/gRPC, Kafka, Message brokers.
-- 📚 Currently studying- BSc. IT 
-- 😄 Even during winter I love beers 🍺
+- 🔭 Mostly using - JavaScript, TypeScript, React JS, Next JS, Node JS, Express, Hono, Web Sockets, Redis & WordPress.
+- 🌱 Learning - Go!
+- 💡 Next milestone - DSA, Microservices, Distributed System & Queues.
+- 📚 Currently studying - BSc. IT
+- 😄 Fun fact - Even during winter I love beers 🍺
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
