@@ -32,4 +32,4 @@
 ![VSCODE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=freecodecamp&logoColor=white)&nbsp;
 ![UBUNTU](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
 
-![h1dd3nsn1p3r's Streak](https://github-readme-streak-stats.herokuapp.com/?user=h1dd3nsn1p3r&theme=prussian&hide_border=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=h1dd3nsn1p3r&border_radius=20)](https://git.io/streak-stats)
