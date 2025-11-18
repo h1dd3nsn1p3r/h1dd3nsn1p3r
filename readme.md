@@ -3,7 +3,7 @@
 - 🔭 Mostly using - JavaScript, TypeScript, React JS, Next JS, Node JS, Express, Hono, Web Sockets, Redis & WordPress.
 - 🌱 Learning - Go!
 - 💡 Next milestone - DSA, Microservices, Distributed System & Queues.
-- 📚 Currently studying - BSc. IT
+- 📚 Planning - MSc. IT
 - 😄 Fun fact - Even during winter I love beers 🍺
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
