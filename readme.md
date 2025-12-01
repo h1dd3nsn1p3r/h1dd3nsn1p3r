@@ -35,8 +35,8 @@
 ![CLOUDFLARE](https://img.shields.io/badge/CLOUDFLARE-%23F38020.svg?style=for-the-badge&logo=cloudflare&logoColor=white)&nbsp;
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)&nbsp;
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-037acc.svg?style=for-the-badge&logo=digitalocean&logoColor=white)&nbsp;
-![Hetzner](https://img.shields.io/badge/Hetzner-%23000000.svg?style=for-the-badge&logo=hetzner&logoColor=white)&nbsp;
-![Nginx](https://img.shields.io/badge/Nginx-%23DDDDDD.svg?style=for-the-badge&logo=nginx&logoColor=white)&nbsp;
+![Hetzner](https://img.shields.io/badge/Hetzner-E34F26.svg?style=for-the-badge&logo=hetzner&logoColor=white)&nbsp;
+![Nginx](https://img.shields.io/badge/Nginx-43853D.svg?style=for-the-badge&logo=nginx&logoColor=white)&nbsp;
 ![Caddy](https://img.shields.io/badge/Caddy-%23000000.svg?style=for-the-badge&logo=caddy&logoColor=white)&nbsp;
 ![WORDPRESS](https://img.shields.io/badge/WordPress-0073aa?style=for-the-badge&logo=wordpress)&nbsp;
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
