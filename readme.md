@@ -1,14 +1,14 @@
 ## Hello,
 
-- 🔭 Mostly using - JavaScript, TypeScript, React JS, Next JS, Node JS, Express, Hono, Web Sockets, Redis & WordPress.
+- 🧑‍💻 Stack - JavaScript, TypeScript, ReactJS, NextJS, RemixJS, NodeJS, Express, Hono, NestJS, WSS, Redis, OpenAI, LangChain, & WordPress.
 - 🌱 Learning - Go!
-- 💡 Next milestone - DSA, Microservices, Distributed System & Queues.
-- 📚 Planning - MSc. IT
-- 😄 Fun fact - Even during winter I love beers 🍺
+- 💡 Next milestone - DSA, Architectures & System Design
+- 📚 Planning - M.Sc. IT
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![TAILWINDCSS](https://img.shields.io/badge/TAILWIND_CSS-38bdf8?style=for-the-badge&logo=tailwindcss&logoColor=white)&nbsp;
+![SHADCN UI](https://img.shields.io/badge/shadcn_ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)&nbsp;
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
 ![TYPESCRIPT](https://img.shields.io/badge/TYPESCRIPT-037acc?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![NODEJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
@@ -24,8 +24,20 @@
 ![VUE](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)&nbsp;
 ![REACT](https://img.shields.io/badge/REACT-3998b6?style=for-the-badge&logo=react&logoColor=white)&nbsp;
 ![NEXTJS](https://img.shields.io/badge/NEXT_JS-000000?style=for-the-badge&logo=next.js&logoColor=white)&nbsp;
+![REMIXJS](https://img.shields.io/badge/REMIX_JS-222222?style=for-the-badge&logo=remix&logoColor=white)&nbsp;
 ![SVELTE](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)&nbsp;
 ![VITE](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)&nbsp;
+![OpenAI](https://img.shields.io/badge/openai-%23000000.svg?style=for-the-badge&logo=openai&logoColor=white)&nbsp;
+![GEMINI](https://img.shields.io/badge/Gemini-%230087ff.svg?style=for-the-badge&logo=google&logoColor=white)&nbsp;
+![OLLAMA](https://img.shields.io/badge/Ollama-000000.svg?style=for-the-badge&logo=ollama&logoColor=white)&nbsp;
+![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=aws&logoColor=white)&nbsp;
+![AZURE](https://custom-icon-badges.demolab.com/badge/Azure-0089D6.svg?style=for-the-badge&logo=msazure&logoColor=white)&nbsp;
+![CLOUDFLARE](https://img.shields.io/badge/CLOUDFLARE-%23F38020.svg?style=for-the-badge&logo=cloudflare&logoColor=white)&nbsp;
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)&nbsp;
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-037acc.svg?style=for-the-badge&logo=digitalocean&logoColor=white)&nbsp;
+![Hetzner](https://img.shields.io/badge/Hetzner-%23000000.svg?style=for-the-badge&logo=hetzner&logoColor=white)&nbsp;
+![Nginx](https://img.shields.io/badge/Nginx-%23DDDDDD.svg?style=for-the-badge&logo=nginx&logoColor=white)&nbsp;
+![Caddy](https://img.shields.io/badge/Caddy-%23000000.svg?style=for-the-badge&logo=caddy&logoColor=white)&nbsp;
 ![WORDPRESS](https://img.shields.io/badge/WordPress-0073aa?style=for-the-badge&logo=wordpress)&nbsp;
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GITHUB](https://img.shields.io/badge/GITHUB-1f2328?style=for-the-badge&logo=github&logoColor=white)&nbsp;
